@@ -1,3 +1,34 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. Scans the 1000 most common TCP/IP ports 
 
 3. Scanning on multiple targets at the same time
