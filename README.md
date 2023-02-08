@@ -1,31 +1,30 @@
+ nmap 12.0.3.61      
 
+ nmap 12.0.3.61   12.0.3.62 
 
+ nmap 12.0.3.61-100   
 
+ nmap 12.0.3.61/24   
 
+ nmap hackthebatu.com
 
+ nmap -sP 12.0.3.61/24 
 
+ nmap -PS 12.03.61/24 
 
+ nmap -PA 12.0.3.61/24 
 
+ nmap -system-dns 12.0.3.61/24  
 
+ nmap -sS -p50 12.0.3.61 
 
+ nmap -sS -p1-80 12.0.3.61 
 
+ nmap -sS -p- 12.0.3.61 
 
+ nmap -sS -O 12.0.3.61 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ nmap -sS -A 12.0.3.61 
 
 
 
